@@ -37,6 +37,7 @@ Inspired by the highly accessible AlphaFold2/ColabFold notebooks, this tool is d
 
 - The **ColabFold** team for inspiring the user-friendly UI/UX approach for bioinformatics tools in Google Colab.
 
+
 @article{passaro2025boltz2,
   author = {Passaro, Saro and Corso, Gabriele and Wohlwend, Jeremy and Reveiz, Mateo and Thaler, Stephan and Somnath, Vignesh Ram and Getz, Noah and Portnoi, Tally and Roy, Julien and Stark, Hannes and Kwabi-Addo, David and Beaini, Dominique and Jaakkola, Tommi and Barzilay, Regina},
   title = {Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction},
