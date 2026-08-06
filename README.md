@@ -4,7 +4,7 @@ An interactive Google Colab notebook to easily run and visualize Boltz biomolecu
 
 # Boltz Colab Notebook
 
-[![Open In Colab]
+[Open In Colab]
 
 An interactive, easy-to-use Google Colab notebook for running the **Boltz** biomolecular prediction model. 
 
